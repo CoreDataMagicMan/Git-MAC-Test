@@ -1,0 +1,18 @@
+//
+//  YLTestDemo1-Prefix.pch
+//  YLTestDemo1
+//
+//  Created by linms on 16/9/5.
+//  Copyright © 2016年 linms. All rights reserved.
+//
+
+#ifndef YLTestDemo1//-Prefix.pch
+#define YLTestDemo1
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "AppDefineHeader.h"
+#import "AppKitUtils.h"
+#import "NSView+FLKAutoLayout.h"
+#import "AppAssembly.h"
+#endif /* YLTestDemo1-Prefix.pch */
